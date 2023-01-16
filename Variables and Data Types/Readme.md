@@ -1,28 +1,28 @@
-Q1 - Take 2 integer values in two variables x and y and print their product. (Easy)
-Sample Input : x=2, y=4 (Both integers)
-Sample Output : 8
+## Q1 - Take 2 integer values in two variables x and y and print their product. (Easy)
+<b> Sample Input </b> : x=2, y=4 (Both integers) <br>
+<b> Sample Output</b> : 8
 
-Q2 - Print the ASCII value of character ‘U’. (Easy)
-Sample Input : already mentioned as ‘U’
-Sample Output : 85
+## Q2 - Print the ASCII value of character ‘U’. (Easy)
+<b> Sample Input </b> : already mentioned as ‘U’ <br>
+<b> Sample Output</b> : 85
 
-Q3 - Write a C++ program to take length and breadth of a rectangle and print its area. (Easy)
-Sample Input : 7, 4
-Sample Output : 28
+## Q3 - Write a C++ program to take length and breadth of a rectangle and print its area. (Easy)
+<b> Sample Input </b> : 7, 4 <br>
+<b> Sample Output</b> : 28
 
-Q4 - Write a C++ program to calculate the cube of a number. (Easy)
-Sample Input : 4
-Sample Output : 64
+## Q4 - Write a C++ program to calculate the cube of a number. (Easy)
+<b> Sample Input </b> : 4 <br>
+<b> Sample Output</b> : 64
 
-Q6 - Write a C++ program to swap two numbers with the help of a third variable. (Hard)
-Sample Input : 2, 3
-Sample Output : 3, 2
+## Q6 - Write a C++ program to swap two numbers with the help of a third variable. (Hard)
+<b> Sample Input </b> : 2, 3 <br>
+<b> Sample Output</b> : 3, 2
 
-Q5 - Write a C++ program to find size of basic data types. (Medium)
-Sample Input : Nil (Here it is expected that we explore the size of each data type that would be
+## Q5 - Write a C++ program to find size of basic data types. (Medium)
+<b> Sample Input </b> : Nil (Here it is expected that we explore the size of each data type that would be
 used commonly in the programs ahead. We can simply make use of sizeof(datatype) operator
-to accomplish this. Give it a try to know the data types in depth)
-Sample Output :
+to accomplish this. Give it a try to know the data types in depth) <br>
+<b> Sample Output</b> :
 Size of fundamental data types :
 The sizeof(char) : 1 bytes
 The sizeof(short) : 2 bytes
