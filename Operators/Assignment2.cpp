@@ -4,14 +4,6 @@ int main()
 {
     int a, b;
     cin >> a >> b;
-    if (a < 50 && a < b)
-    {
-        cout << "True";
-    }
-    else
-    {
-        cout << "False";
-    }
-
+    cout << (a < 50 && a < b) ? 1 : 0;
     return 0;
 }
